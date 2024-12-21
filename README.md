@@ -113,7 +113,7 @@ La gestión de la configuración se lleva a cabo a través de Git y GitHub como 
 3. Cada rama representa a un microservicio y dentro solamente se trabaja en base a dicho microservicio
 4. Repositorio remoto en oculto para garantizar la privacidad del código y los datos empleados.
 
-[Git])imagen.jpg)
+[Imagen de la utilización de git y las ramas](imagen.jpg)
 
 ## Pruebas: 
 ### Prueba de aceptación:
