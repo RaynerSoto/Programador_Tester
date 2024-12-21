@@ -113,6 +113,8 @@ La gestión de la configuración se lleva a cabo a través de Git y GitHub como 
 3. Cada rama representa a un microservicio y dentro solamente se trabaja en base a dicho microservicio
 4. Repositorio remoto en oculto para garantizar la privacidad del código y los datos empleados.
 
+[Git])imagen.jpg)
+
 ## Pruebas: 
 ### Prueba de aceptación:
 Verifica si todo el sistema funciona según lo previsto. Se llevo a cabo una prueba de aceptación de contratos, para comprobar si el software cumplía con todos los requisitos planteados en las distintas fases de entregas orientadas para el desarrollo de software. Llegando a la conclusión del incumpliendo de los objetivos para el desarrollo, pero determinando puntos donde mejorar y apresurando el proceso de desarrollo de las siguientes fases, para conseguir cumplir con todas las tareas.
